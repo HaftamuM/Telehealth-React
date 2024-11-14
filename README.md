@@ -5,6 +5,7 @@ Telehealth-app
 
 ### Key features include:
 
+(you could update this anythime - review of what i understand)
 ## Real-Time Video Calls: Patients and healthcare providers can engage in secure video consultations through Zoom integration.
 ## User Authentication: Secure login and JWT-based authentication ensure that only authorized users (patients and providers) can access the platform.
 ## Appointment Scheduling: Patients can schedule consultations with healthcare providers at their convenience.
