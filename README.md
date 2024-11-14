@@ -5,14 +5,6 @@ Telehealth-app
 
 ### Key features include:
 
-(you could update this anythime - review of what i understand)
-## Real-Time Video Calls: Patients and healthcare providers can engage in secure video consultations through Zoom integration.
-## User Authentication: Secure login and JWT-based authentication ensure that only authorized users (patients and providers) can access the platform.
-## Appointment Scheduling: Patients can schedule consultations with healthcare providers at their convenience.
-## Zoom Integration: The app leverages the Zoom SDK to manage video conferencing functionalities, allowing users to join meetings with ease.
-## Role-Based Access: The platform distinguishes between patients and healthcare providers, offering tailored experiences for each user role.
-## This application is ideal for telemedicine use cases, improving accessibility to healthcare services by enabling remote consultations from anywhere.
-
 ### Tech Stack:
 ## Frontend: React.js
 ## Backend: Node.js (optional, for user authentication and scheduling)
